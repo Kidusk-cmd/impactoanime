@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto del Anime en la Sociedad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Impacto del Anime en la Sociedad</h1>
+        <p>Exploramos cómo el anime ha influenciado la cultura global</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#impacto">Impacto</a></li>
+            <li><a href="#animes">Animes Influyentes</a></li>
+            <li><a href="#referencias">Referencias</a></li>
+        </ul>
+    </nav>
+
+    <section id="impacto">
+        <h2>📌 El Impacto del Anime en la Sociedad</h2>
+        <p>El anime ha cambiado la manera en que consumimos entretenimiento, inspirando nuevas generaciones de artistas, cineastas y escritores.</p>
+        <ul>
+            <li>🎨 **Arte y Diseño** – Ha influenciado la moda, la ilustración y el cine.</li>
+            <li>🎥 **Cine y Narrativa** – Inspiró a directores como Guillermo del Toro y Quentin Tarantino.</li>
+            <li>🌍 **Cultura y Filosofía** – Series como Evangelion y Ghost in the Shell abordan dilemas existenciales y futuristas.</li>
+        </ul>
+    </section>
+
+    <section id="animes">
+        <h2>🔥 Animes Influyentes y su Filosofía</h2>
+        <div class="anime">
+            <img src="evangelion.jpg" alt="Neon Genesis Evangelion">
+            <h3>Neon Genesis Evangelion</h3>
+            <p>Explora la psicología humana, la soledad y la autodestrucción.</p>
+        </div>
+        <div class="anime">
+            <img src="akira.jpg" alt="Akira">
+            <h3>Akira</h3>
+            <p>Un pilar del cyberpunk que redefinió la ciencia ficción moderna.</p>
+        </div>
+        <div class="anime">
+            <img src="ghibli.jpg" alt="Studio Ghibli">
+            <h3>Studio Ghibli</h3>
+            <p>Películas con profundidad filosófica, valores familiares y crítica ambiental.</p>
+        </div>
+    </section>
+
+    <section id="referencias">
+        <h2>📚 Referencias</h2>
+        <p>Fuentes utilizadas para este sitio:</p>
+        <ul>
+            <li><a href="https://es.wikipedia.org/wiki/Anime">Historia del Anime - Wikipedia</a></li>
+            <li><a href="https://www.anime-planet.com/">Anime Planet</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Impacto del Anime - Creado para difundir el valor cultural del anime.</p>
+    </footer>
+</body>
+</html>
