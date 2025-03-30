@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto del Anime en la Sociedad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <h1>Impacto del Anime en la Sociedad</h1>
+        <nav>
+            <ul>
+                <li><a href="#impacto">Impacto</a></li>
+                <li><a href="#animes-importantes">Animes Importantes</a></li>
+                <li><a href="#referencias">Referencias</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección de Impacto -->
+    <section id="impacto">
+        <h2>El Impacto del Anime en la Sociedad</h2>
+        <p>El anime ha cambiado la cultura global, influyendo en la moda, la música, el cine y los videojuegos.</p>
+        <img src="impacto-anime.jpg" class="imagen-contenido" alt="Impacto del anime">
+    </section>
+
+    <!-- Sección de Animes Importantes -->
+    <section id="animes-importantes">
+        <h2>Animes con Filosofía y Trasfondo Profundo</h2>
+
+        <article class="anime">
+            <img src="evangelion.jpg" alt="Neon Genesis Evangelion">
+            <h3>Neon Genesis Evangelion</h3>
+            <p>Un anime con simbolismo religioso y exploración psicológica.</p>
+        </article>
+
+        <article class="anime">
+            <img src="ghostintheshell.jpg" alt="Ghost in the Shell">
+            <h3>Ghost in the Shell</h3>
+            <p>Explora la inteligencia artificial y la identidad humana.</p>
+        </article>
+
+        <article class="anime">
+            <img src="steinsgate.jpg" alt="Steins;Gate">
+            <h3>Steins;Gate</h3>
+            <p>Un anime basado en teorías científicas sobre viajes en el tiempo.</p>
+        </article>
+
+        <article class="anime">
+            <img src="attackontitan.jpg" alt="Attack on Titan">
+            <h3>Attack on Titan</h3>
+            <p>Reflexiona sobre la guerra, el poder y la libertad.</p>
+        </article>
+    </section>
+
+    <!-- Sección de Referencias -->
+    <section id="referencias">
+        <h2>Referencias</h2>
+        <ul>
+            <li><a href="https://www.crunchyroll.com/" target="_blank">Crunchyroll</a></li>
+            <li><a href="https://www.animenewsnetwork.com/" target="_blank">Anime News Network</a></li>
+            <li><a href="https://myanimelist.net/" target="_blank">MyAnimeList</a></li>
+        </ul>
+    </section>
+
+    <!-- Imágenes decorativas -->
+    <img src="decoracion1.png" id="esquina-izquierda" class="decoracion">
+    <img src="decoracion2.png" id="esquina-derecha" class="decoracion">
+
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2025 Impacto del Anime | Creado por Tu Nombre</p>
+    </footer>
+
+</body>
+</html>
